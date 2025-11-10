@@ -26,4 +26,4 @@ Este projeto é uma **landing page** desenvolvida com HTML e CSS, inspirada no u
 
 ##🌐 Acesse o Projeto
 
-🔗 click aqui: https://joaopedros-s.github.io/Projeto-DBZ/
+🔗 click aqui: [https://joaopedros-s.github.io/Projeto-Super-Mario-Bros/]
