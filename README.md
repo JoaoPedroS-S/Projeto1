@@ -22,4 +22,8 @@ Este projeto é uma **landing page** desenvolvida com HTML e CSS, inspirada no u
 - Desenvolver uma landing page temática
 - Aprender a hospedar um projeto estático usando o **GitHub Pages**
 
-   
+---
+
+##🌐 Acesse o Projeto
+
+🔗 click aqui: https://joaopedros-s.github.io/Projeto-DBZ/
